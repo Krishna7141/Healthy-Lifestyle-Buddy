@@ -62,7 +62,7 @@ Just type what you need — it will instantly suggest:
 
 ## 👨‍💻 Built By
 
-Made with ❤️ by Sowmya Yalavarthi 
+@ Krishna Vamsi Chelluboina@ 
 for [Google Build with AI Hackathon]
 
 ---
